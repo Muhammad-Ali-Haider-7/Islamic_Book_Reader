@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754123189042",
+    "project_id": "islamicbookreader-da318",
+    "storage_bucket": "islamicbookreader-da318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754123189042:android:9be3002cf102ce0ae5052b",
+        "android_client_info": {
+          "package_name": "com.example.islamic_book_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtuNS8PqhlFYvepEWaU9jBSLy3RoCWaqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
